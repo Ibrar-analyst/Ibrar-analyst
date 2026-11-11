@@ -39,8 +39,8 @@ I build AI-powered applications, intelligent automation tools, modern web applic
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrar-analyst&theme=react&hide_border=true"/>
 
+<img src="https://streak-stats.demolab.com/?user=Ibrar-analyst&theme=react&hide_border=true&timezone=Asia/Karachi&cache_bust=20261111"/>
 </p>
 
 ---
